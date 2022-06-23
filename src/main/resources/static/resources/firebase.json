@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "handy-freedom-352408",
+  "private_key_id": "11ce3a7ddab0fc16e6ba09806cbfdcbc847393cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCz9uJkpi0S3zl6\nRjgSTx4kg5qMfbCvfGM9v1VhmywaVFBMg/8hqJjCZ8RIX3NVShKk6+mBsxK8CvNw\nwzfbVDg5MsGMC4jFX2ANUPiLKlQkl/VsOSg5yak27fEfg+LOAMzesCd2SG1y4rCe\nnKB7fr8XyEtEqtcD176bJrgh33ByshaLXaXmTtg3N2kPcfEpz9BQYd+v7QpI9muI\nVTWN4zekw1WzqoRiU7SQp6hJ/jWsoOz5xWCWPy6QadtRq6zcAhK8heh6kYA3/99e\nQmU2mLED58b3nZ6WvzXLRTAU7wo0immrK4kGDlI/+78v6qkYpZWJeTVqFJPSGSqD\nWystGebVAgMBAAECggEAC2sWhINPUyYK/A6Y1SnkRDXTaFGQlHnPGXuv0PsVn8Vf\nY5NxFx4e3yAoAd2IhaNRroQcszLSSqW5OhuGH5Tm4lOC7eiiG2pzP4phKAHzXRpa\neII3N/9rDJtT6VzRVve8XUQOT5YbLPxkGhQ0UdGXZ0y5NdikaXqBU0/FbroXZOIm\nMwGNl2mkBLu8Wr8YvXQ4uMmfKLKooJNvN6UlcQ2c5oxjJWRlNmFiR9Ddni85W7yF\nY65vS8GqyQQVX5yrDSnnXV4rNid1ZWTikWcIlKYbvnTmMLftkx46hX91yYuC9fjT\n1NWBpPt9u2FbgrcvaJT7XaE1dVKjTfsWc8ch1AqY0QKBgQDZduzK7r6Ocm5V19Xn\nvATHCyWt9XDhSSy4GqJt7bQQKuL2+VXg6Lp8V+/xjZX3AxJbX/r5N5maeNTzpZEw\nFXdzn9st2CGT0FLeLqAbQZVpAmFZMj5YAfSL2w772AFhYlDDe0DZRh3ZcZLgNOQx\nnVWj7mTYVGPxnNXpQE8xL+oiiQKBgQDT2szG61a9I9486zMJnEcJ/Pd9htz7mcJ4\nKq6uKpSOOrkkCeQuvWrXLo+BWwKJKL0DIsEOtrf5SM+6OY7gmrBj6QLldtva6K3w\n0pzCYN/WGwkFWTbz5VJA4hqlanAOFlxNW81vFgfNZSMiWW8uohW3WPv6bIW27YZg\nNPattXT+7QKBgQCvi7kK+D8LboRy95DNSJHyu6TnEMLWmeNnmtiUNNauVnBxPkV9\nEWG5DqO7Mrhkdi5TZN+MXr24XOJK7NSPJEURKXIdR+OTFxBOGwVT+1VJN4quHkkF\nck6et28ZDf3PRzY7Fzv6KQffiDcwloG/K2r+smrl1vn3CMwFRsymwC8ZQQKBgCuS\necGDz6AxC1lOKn4UhUvZmnFX1oVs12FtreWmXk1uaHuwCR1P2fSN3/gD5t6c4VsO\nv9Qt4mLEBe1QP0GUryitWOom6wr4BiZcut8Dm6Xmg5F1CudYx/UOS9qvrIJJOQy0\nD+mEB3DIF1TOPh7COWMvSwvzXAEGkzegTQfnJTv1AoGBAJ6G/f2lJYkLiqF4ABYz\n9wzEq1aprIycVrtHcJwr3cghullO4b7tuXPikZb2pMsdZ71ASeLVnn3/HH/AtZHL\nwHi+QdMpfSObiLewYpBfy02xu+cw9VO3nAd75EEfPvB7mQkuMNV8I6vvcEjTOlG1\n0JUJQh6ni5QUhfZqcpE0A2vl\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-g74o0@handy-freedom-352408.iam.gserviceaccount.com",
+  "client_id": "115771799464759218084",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-g74o0%40handy-freedom-352408.iam.gserviceaccount.com"
+}
